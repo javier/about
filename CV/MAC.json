@@ -9,7 +9,7 @@
       "name": "Javier",
       "surnames": "Ramirez",
       "title": "Developer Advocate at Amazon AWS",
-      "description": "",
+      "description": "Passionate, driven, enthusiastic Full Stack Engineer with a focus on reliable, scalable, cloud based microservices with continuous integration and delivery.",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/81a99704-0fd8-4bf9-ad36-0fa1b5e39ab6_64daf88568a1db6a39dc.64daf88568a1db6a39dc9e6657e3e095"
@@ -20,21 +20,38 @@
     },
     "relevantLinks": [
       {
+        "type": "other",
+        "URL": "http://javier-ramirez.com"
+      },
+      {
         "type": "github",
         "URL": "https://github.com/javier"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/supercoco9"
-      },
-      {
-        "type": "other",
-        "URL": "http://javier-ramirez.com"
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Skillz Inc.",
+          "URL": "https://www.linkedin.com/company/skillz?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Senior Full Stack Engineer",
+            "startDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "- Built in house Snowflake adapter for Ruby applications to migrate all services from Redshift to Snowflake - Designed, developed, and lead custom e-commerce solution to enable an autonomous product redemption flow - Strengthened user centric fraud detection services to catch malicious users on the platform - Migrated services to Kubernetes to support horizontal scalability and increased availability - Maintained API contracts for effective cross team collaboration - Supported, monitored, and maintained all aspects of AWS system architecture - Interviewed candidates of all skill levels for high velocity roles in engineering"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Amazon AWS"
@@ -54,23 +71,15 @@
                 "type": "technology"
               },
               {
-                "name": "amazon-dynamodb",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-redshift",
-                "type": "technology"
-              },
-              {
                 "name": "amazon-athena",
                 "type": "technology"
               },
               {
-                "name": "aws-aurora",
+                "name": "amazon-dynamodb",
                 "type": "technology"
               },
               {
-                "name": "amazon-neptune",
+                "name": "amazon-emr",
                 "type": "technology"
               },
               {
@@ -78,15 +87,94 @@
                 "type": "technology"
               },
               {
-                "name": "amazon-emr",
+                "name": "amazon-neptune",
+                "type": "technology"
+              },
+              {
+                "name": "amazon-redshift",
+                "type": "technology"
+              },
+              {
+                "name": "aws-aurora",
                 "type": "technology"
               }
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Mentor Graphics",
+          "URL": "https://www.linkedin.com/company/mentor_graphics?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2015-04-01",
+            "finishDate": "2019-08-31"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
+      {
+        "details": {
+          "name": "Aptana RadRails: An IDE for Rails Development: A comprehensive guide to using RadRails to develop your Ruby on Rails projects in a professional and productive manner — Javier Ramirez",
+          "URL": "http://www.amazon.com/Aptana-RadRails-Development-comprehensive-professional/dp/1847193986%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1847193986"
+        },
+        "type": "post",
+        "publishingDate": "2022-03-24"
+      },
+      {
+        "details": {
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 10% at Stack Overflow answers",
+          "description": "This user is part of the top 10% Stack Overflow answerers in these technologies"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Redis",
+            "type": "technology"
+          },
+          {
+            "name": "google-bigquery",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "details": {
           "name": "Error with a BigQuery regular expression",
@@ -121,20 +209,6 @@
       },
       {
         "details": {
-          "name": "Top 20% at Stack Overflow answers",
-          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Ruby on Rails",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "redis:- query for particular 'email' in value",
           "URL": "https://stackoverflow.com/questions/20240909/redis-query-for-particular-email-in-value/20242374#20242374"
         },
@@ -151,55 +225,35 @@
       },
       {
         "details": {
-          "name": "Aptana RadRails: An IDE for Rails Development: A comprehensive guide to using RadRails to develop your Ruby on Rails projects in a professional and productive manner — Javier Ramirez",
-          "URL": "http://www.amazon.com/Aptana-RadRails-Development-comprehensive-professional/dp/1847193986%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1847193986"
-        },
-        "type": "post",
-        "publishingDate": "2022-03-24"
-      },
-      {
-        "details": {
-          "name": "Top 5% at Stack Overflow answers",
-          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "In Redis, command for retrieving values from sorted-set",
           "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
         },
         "type": "post",
         "publishingDate": "2013-11-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Bachelor of Science - BS Psychology",
+        "startDate": "2022-05-06",
+        "institution": {
+          "name": "University of Oregon",
+          "URL": "https://www.linkedin.com/school/university-of-oregon/?trk=public_profile_school_profile-section-card_full-click"
+        }
       },
       {
-        "details": {
-          "name": "Top 10% at Stack Overflow answers",
-          "description": "This user is part of the top 10% Stack Overflow answerers in these technologies"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "Redis",
-            "type": "technology"
-          },
-          {
-            "name": "google-bigquery",
-            "type": "technology"
-          }
-        ]
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Bachelor of Science - BS Computer Science",
+        "startDate": "2022-05-06",
+        "institution": {
+          "name": "Oregon State University",
+          "URL": "https://www.linkedin.com/school/oregon-state-university/?trk=public_profile_school_profile-section-card_full-click"
+        }
       }
     ]
   },
@@ -207,11 +261,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Redis",
-          "type": "technology"
-        },
-        {
-          "name": "Ruby",
+          "name": "Apache Beam",
           "type": "technology"
         },
         {
@@ -219,7 +269,11 @@
           "type": "technology"
         },
         {
-          "name": "Apache Beam",
+          "name": "Redis",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby",
           "type": "technology"
         }
       ]
