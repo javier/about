@@ -57,12 +57,13 @@
       },
       {
         "organization": {
-          "name": "Amazon AWS"
+          "name": "Amazon Web Services"
         },
         "roles": [
           {
             "name": "Developer Advocate",
             "startDate": "2019-01-01",
+            "finishDate": "2022-05-01",
             "challenges": [
               {
                 "description": "I work as a Technical Evangelist at AWS to help developers make the best of cloud, so they can focus on solving interesting problems and rely on AWS for performance, scalability, elasticity, and security."
@@ -71,34 +72,6 @@
             "competences": [
               {
                 "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-athena",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-dynamodb",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-emr",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-kinesis",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-neptune",
-                "type": "technology"
-              },
-              {
-                "name": "amazon-redshift",
-                "type": "technology"
-              },
-              {
-                "name": "aws-aurora",
                 "type": "technology"
               }
             ]
