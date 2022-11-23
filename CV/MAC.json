@@ -82,6 +82,13 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Top 11% Globally in StackOverflow in this quarter"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-11-01"
+      },
+      {
+        "details": {
           "name": "Aptana RadRails: An IDE for Rails Development: A comprehensive guide to using RadRails to develop your Ruby on Rails projects in a professional and productive manner — Javier Ramirez",
           "URL": "http://www.amazon.com/Aptana-RadRails-Development-comprehensive-professional/dp/1847193986%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1847193986"
         },
