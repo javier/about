@@ -259,11 +259,39 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Airflow",
+          "type": "technology"
+        },
+        {
           "name": "Apache Beam",
           "type": "technology"
         },
         {
+          "name": "Aurora",
+          "type": "technology"
+        },
+        {
+          "name": "BigQuery",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
           "name": "NoSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
           "type": "technology"
         },
         {
@@ -272,6 +300,10 @@
         },
         {
           "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
           "type": "technology"
         }
       ]
