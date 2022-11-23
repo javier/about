@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Javier",
       "surnames": "Ramirez",
-      "title": "Developer Advocate at Amazon AWS",
+      "title": "Head of Developer Relations at QuestDB",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/81a99704-0fd8-4bf9-ad36-0fa1b5e39ab6_64daf88568a1db6a39dc.64daf88568a1db6a39dc9e6657e3e095"
@@ -16,7 +16,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -29,8 +30,16 @@
         "URL": "https://github.com/javier"
       },
       {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3035921/javier-ramirez"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/supercoco9"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ramirez/"
       }
     ]
   },
@@ -234,21 +243,19 @@
       }
     ]
   },
-  "knowledge": {
-    "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Bachelor of Science - BS Computer Science",
-        "startDate": "2022-05-06",
-        "institution": {
-          "name": "Oregon State University",
-          "URL": "https://www.linkedin.com/school/oregon-state-university/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      }
-    ]
-  },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/ramirez/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3035921/javier-ramirez"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
@@ -268,6 +275,7 @@
           "type": "technology"
         }
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
