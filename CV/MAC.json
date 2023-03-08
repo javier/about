@@ -223,6 +223,28 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "German",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Italian",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Polish",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
