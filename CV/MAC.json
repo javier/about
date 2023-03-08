@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,6 +9,7 @@
       "name": "Javier",
       "surnames": "Ramirez",
       "title": "Head of Developer Relations at QuestDB",
+      "description": "",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/81a99704-0fd8-4bf9-ad36-0fa1b5e39ab6_64daf88568a1db6a39dc.64daf88568a1db6a39dc9e6657e3e095"
@@ -16,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -51,7 +53,12 @@
         "roles": [
           {
             "name": "Head of Developer Relations",
-            "startDate": "2022-05-01"
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -82,14 +89,19 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Top 11% Globally in StackOverflow in this quarter"
+          "name": "Top 11% Globally in StackOverflow in this quarter",
+          "description": ""
         },
         "type": "achievement",
-        "publishingDate": "2022-11-01"
+        "publishingDate": "2022-11-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
           "name": "Aptana RadRails: An IDE for Rails Development: A comprehensive guide to using RadRails to develop your Ruby on Rails projects in a professional and productive manner — Javier Ramirez",
+          "description": "",
           "URL": "http://www.amazon.com/Aptana-RadRails-Development-comprehensive-professional/dp/1847193986%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1847193986"
         },
         "type": "post",
@@ -148,6 +160,7 @@
       {
         "details": {
           "name": "Error with a BigQuery regular expression",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
         },
         "type": "post",
@@ -156,6 +169,7 @@
       {
         "details": {
           "name": "Google Cloud Console: Invalid redirect URI",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/19543517/google-cloud-console-invalid-redirect-uri/20218465#20218465"
         },
         "type": "post",
@@ -164,6 +178,7 @@
       {
         "details": {
           "name": "Redis WATCH MULTI EXEC by one client",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client/20216928#20216928"
         },
         "type": "post",
@@ -172,6 +187,7 @@
       {
         "details": {
           "name": "Conditionally displaying resources in a many-to-many relationship - Rails 4",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/20242955/conditionally-displaying-resources-in-a-many-to-many-relationship-rails-4/20245882#20245882"
         },
         "type": "post",
@@ -180,6 +196,7 @@
       {
         "details": {
           "name": "redis:- query for particular 'email' in value",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/20240909/redis-query-for-particular-email-in-value/20242374#20242374"
         },
         "type": "post",
@@ -188,6 +205,7 @@
       {
         "details": {
           "name": "How RESTful is using subdomains as resource identifiers?",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/20179352/how-restful-is-using-subdomains-as-resource-identifiers/20218028#20218028"
         },
         "type": "post",
@@ -196,6 +214,7 @@
       {
         "details": {
           "name": "In Redis, command for retrieving values from sorted-set",
+          "description": "",
           "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
         },
         "type": "post",
@@ -266,7 +285,15 @@
           "name": "SQL",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Data Engineer",
+        "Developer Evangelist & Advocate",
+        "Pre-Sales Engineer",
+        "Tech Lead",
+        "VP of Engineering"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
