@@ -35,10 +35,6 @@
         "URL": "https://twitter.com/supercoco9"
       },
       {
-        "type": "stackoverflow",
-        "URL": "https://stackoverflow.com/users/3035921/javier-ramirez"
-      },
-      {
         "type": "other",
         "URL": "http://javier-ramirez.com",
         "description": "about me"
@@ -777,10 +773,6 @@
         {
           "URL": "https://linkedin.com/in/ramirez",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/3035921/javier-ramirez",
-          "type": "stackoverflow"
         },
         {
           "URL": "https://github.com/javier",
