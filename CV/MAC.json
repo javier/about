@@ -40,7 +40,8 @@
       },
       {
         "type": "other",
-        "URL": "http://javier-ramirez.com"
+        "URL": "http://javier-ramirez.com",
+        "description": "about me"
       }
     ]
   },
@@ -50,8 +51,8 @@
         "organization": {
           "name": "Genetsis Partners",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/d36e0ada-1def-4050-89b3-ddd1061de677_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/d36e0ada-1def-4050-89b3-ddd1061de677_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/2e46ba77-051a-4836-ba1c-effb1b168716_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/2e46ba77-051a-4836-ba1c-effb1b168716_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -102,8 +103,8 @@
         "organization": {
           "name": "QuestDB",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/1da7c678-89ef-409a-b01c-2f4a272d2e60_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/1da7c678-89ef-409a-b01c-2f4a272d2e60_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/a1adde29-1771-4a51-acbf-50d60b352afd_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/a1adde29-1771-4a51-acbf-50d60b352afd_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -122,8 +123,8 @@
         "organization": {
           "name": "Ministerio de Educación, España",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/ea109b14-3066-45e0-a054-bd7aa2efbad0_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/ea109b14-3066-45e0-a054-bd7aa2efbad0_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/eb04d474-0ff4-4002-8c7c-fdbc7d0a8cb5_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/eb04d474-0ff4-4002-8c7c-fdbc7d0a8cb5_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -143,8 +144,8 @@
         "organization": {
           "name": "Tecnun - Universidad de Navarra",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/86af4000-2e5e-4a13-96dc-83282c42f911_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/86af4000-2e5e-4a13-96dc-83282c42f911_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/535f58bb-7575-4e19-b3c0-030e6db3d192_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/535f58bb-7575-4e19-b3c0-030e6db3d192_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -164,8 +165,8 @@
         "organization": {
           "name": "Amazon Web Services",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/a5b9c500-779e-4c52-8c99-0b4682c9465b_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/a5b9c500-779e-4c52-8c99-0b4682c9465b_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/d4d2fe7a-f5c8-4850-a576-974ab652ef78_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/d4d2fe7a-f5c8-4850-a576-974ab652ef78_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -185,8 +186,8 @@
         "organization": {
           "name": "Datatonic",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/a93bdc3f-4fc2-42eb-a9fc-673de3f015e0_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/a93bdc3f-4fc2-42eb-a9fc-673de3f015e0_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/6f515d44-1d24-466b-b812-c0330137d2fa_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/6f515d44-1d24-466b-b812-c0330137d2fa_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -206,8 +207,8 @@
         "organization": {
           "name": "Aprendoaprogramar",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/8dfbe70f-0931-4297-8e4c-a0ed14831255_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/8dfbe70f-0931-4297-8e4c-a0ed14831255_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/215638cf-0f34-4038-9b73-53fa3b99b6b3_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/215638cf-0f34-4038-9b73-53fa3b99b6b3_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -227,8 +228,8 @@
         "organization": {
           "name": "Startup Academy Madrid",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/99df38a2-27ae-4635-a35e-c7d5701a7a04_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/99df38a2-27ae-4635-a35e-c7d5701a7a04_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/2d9570c8-989e-4778-974c-2f8eed422f23_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/2d9570c8-989e-4778-974c-2f8eed422f23_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -265,8 +266,8 @@
         "organization": {
           "name": "Google",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/7f4ffc6e-5458-4abc-be15-352c500837e9_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/7f4ffc6e-5458-4abc-be15-352c500837e9_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/c47d16e4-b8ab-4c8d-aa0b-32170fb72c4c_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/c47d16e4-b8ab-4c8d-aa0b-32170fb72c4c_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -286,8 +287,8 @@
         "organization": {
           "name": "teowaki",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/dbd319f2-535b-42a4-9d3d-6e0a82be9bdb_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/dbd319f2-535b-42a4-9d3d-6e0a82be9bdb_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/6d1091c9-ec4e-4e9f-a9fa-04868b354fe0_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/6d1091c9-ec4e-4e9f-a9fa-04868b354fe0_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -341,8 +342,8 @@
         "organization": {
           "name": "Packt Publishing",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/b0935e08-0f1a-423f-8d50-4c8fff61b507_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/b0935e08-0f1a-423f-8d50-4c8fff61b507_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/514e045e-1137-4494-ac6b-fc90d7af98f5_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/514e045e-1137-4494-ac6b-fc90d7af98f5_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -379,8 +380,8 @@
         "organization": {
           "name": "ASPgems",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/7079cf6c-6274-49fc-b065-c20cb924a402_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/7079cf6c-6274-49fc-b065-c20cb924a402_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/9fd43371-e494-4544-8705-6b76f8daf580_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/9fd43371-e494-4544-8705-6b76f8daf580_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
@@ -417,8 +418,8 @@
         "organization": {
           "name": "Vector Software Factory",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/412f4949-0e34-40f1-a1bc-08b8685b2398_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/412f4949-0e34-40f1-a1bc-08b8685b2398_linkedin-photo-2931.linkedin-photo-2931"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/f7ac272f-6a38-4035-8c95-947d02b94c31_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/f7ac272f-6a38-4035-8c95-947d02b94c31_linkedin-photo-2931.linkedin-photo-2931"
           }
         },
         "roles": [
