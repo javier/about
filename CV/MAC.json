@@ -475,6 +475,31 @@
       },
       {
         "details": {
+          "name": "QuestDB Quickstart: Stream time-series data with real-time dashboards using Grafana",
+          "URL": "https://www.youtube.com/watch?v=r8zE1JNuqyA&ab_channel=QuestDB"
+        },
+        "type": "video",
+        "publishingDate": "2023-09-01",
+        "tags": [
+          "video"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Grafana",
+            "type": "technology"
+          },
+          {
+            "name": "Kafka",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Why your relational database sucks at time-series",
           "URL": "https://www.youtube.com/watch?v=w2w9zCgzf6U&t=15s&ab_channel=QuestDB"
         },
