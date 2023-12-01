@@ -446,7 +446,10 @@
           "URL": "https://github.com/javier"
         },
         "type": "achievement",
-        "publishingDate": "2023-11-01"
+        "publishingDate": "2023-11-01",
+        "tags": [
+          "github"
+        ]
       },
       {
         "details": {
