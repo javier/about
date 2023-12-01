@@ -454,7 +454,10 @@
           "URL": "https://stackoverflow.com/users/3035921/javier-ramirez?tab=topactivity"
         },
         "type": "achievement",
-        "publishingDate": "2023-11-01"
+        "publishingDate": "2023-11-01",
+        "tags": [
+          "stackoverflow"
+        ]
       },
       {
         "details": {
