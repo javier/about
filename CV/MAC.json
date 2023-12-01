@@ -467,7 +467,10 @@
           "name": "Top 11% Globally in StackOverflow in this quarter"
         },
         "type": "achievement",
-        "publishingDate": "2022-11-01"
+        "publishingDate": "2022-11-01",
+        "tags": [
+          "stackoverflow"
+        ]
       },
       {
         "details": {
