@@ -63,34 +63,6 @@
       },
       {
         "details": {
-          "name": "Top 20% at Stack Overflow answers",
-          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Ruby on Rails",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Top 5% at Stack Overflow answers",
-          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Top 10% at Stack Overflow answers",
           "description": "This user is part of the top 10% Stack Overflow answerers in these technologies"
         },
@@ -113,40 +85,36 @@
       },
       {
         "details": {
-          "name": "Error with a BigQuery regular expression",
-          "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
         },
-        "type": "post",
-        "publishingDate": "2013-11-01"
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
       },
       {
         "details": {
-          "name": "Google Cloud Console: Invalid redirect URI",
-          "URL": "https://stackoverflow.com/questions/19543517/google-cloud-console-invalid-redirect-uri/20218465#20218465"
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
         },
-        "type": "post",
-        "publishingDate": "2013-11-01"
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
       },
       {
         "details": {
-          "name": "Redis WATCH MULTI EXEC by one client",
-          "URL": "https://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client/20216928#20216928"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
-          "name": "Conditionally displaying resources in a many-to-many relationship - Rails 4",
-          "URL": "https://stackoverflow.com/questions/20242955/conditionally-displaying-resources-in-a-many-to-many-relationship-rails-4/20245882#20245882"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
-          "name": "redis:- query for particular 'email' in value",
-          "URL": "https://stackoverflow.com/questions/20240909/redis-query-for-particular-email-in-value/20242374#20242374"
+          "name": "In Redis, command for retrieving values from sorted-set",
+          "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
         },
         "type": "post",
         "publishingDate": "2013-11-01"
@@ -161,8 +129,40 @@
       },
       {
         "details": {
-          "name": "In Redis, command for retrieving values from sorted-set",
-          "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
+          "name": "redis:- query for particular 'email' in value",
+          "URL": "https://stackoverflow.com/questions/20240909/redis-query-for-particular-email-in-value/20242374#20242374"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "Conditionally displaying resources in a many-to-many relationship - Rails 4",
+          "URL": "https://stackoverflow.com/questions/20242955/conditionally-displaying-resources-in-a-many-to-many-relationship-rails-4/20245882#20245882"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "Redis WATCH MULTI EXEC by one client",
+          "URL": "https://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client/20216928#20216928"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "Google Cloud Console: Invalid redirect URI",
+          "URL": "https://stackoverflow.com/questions/19543517/google-cloud-console-invalid-redirect-uri/20218465#20218465"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "Error with a BigQuery regular expression",
+          "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
         },
         "type": "post",
         "publishingDate": "2013-11-01"
@@ -179,12 +179,12 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Native or bilingual proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Native or bilingual proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "IT",
