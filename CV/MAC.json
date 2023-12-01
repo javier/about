@@ -45,6 +45,396 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Genetsis Partners",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/d36e0ada-1def-4050-89b3-ddd1061de677_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/d36e0ada-1def-4050-89b3-ddd1061de677_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Team Leader",
+            "startDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "e-business and e-marketing company.\n\nAs a Team Leader, I coordinated the development of three portals for cajamadrid (fundación cajamadrid, obra social cajamadrid and la casa encendida). I took part in analysis and development and I was responsible for the technical team.\n\nTechnologies: J2EE/Weblogic/Vignette/Oracle/Solaris"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Intesys Integrated Software Services"
+        },
+        "roles": [
+          {
+            "name": "Project Manager",
+            "startDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "Intesys is a consulting and development company present in several sectors.\n\nAa an international project manager for our client ‘Lilly’ laboratories, I was responsible for the whole life cycle of our projects, from business requirements to deployment.\n\nTechnologies: J2EE/ColdFusion/WebSphere/Solaris/Oracle"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fatwire Corporation"
+        },
+        "roles": [
+          {
+            "name": "post-sales engineer",
+            "startDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "Fatwire is a one of the world leaders in Content Management Software through its flagship product ContentServer (formerly OpenMarket)\n\nAs a post-sales engineer and training responsible, my tasks were to analyze our clients’ needs and to help them architecture their installations, as well as to support their applications and to deliver technical training.\n\nTechnologies: Fatwire Content Server/J2EE/JBoss/Oracle"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "QuestDB",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/1da7c678-89ef-409a-b01c-2f4a272d2e60_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/1da7c678-89ef-409a-b01c-2f4a272d2e60_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Developer Advocate - Developer Relations Lead",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "At QuestDB we are building the fastest open source time-series database. Building a tech product takes a village, and I have the privilege to be the person in charge of making sure the QuestDB community has everything they need to make the most of QuestDB and help us take it to the next level.\n\nIf you have any feedback about QuestDB, or if you want to share how you are using (or not) QuestDB, please do get in touch. I would love to learn from you."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministerio de Educación, España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/ea109b14-3066-45e0-a054-bd7aa2efbad0_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/ea109b14-3066-45e0-a054-bd7aa2efbad0_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Experto en el comité del grupo de trabajo para la cualificación profesional de la nube",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-03-31",
+            "challenges": [
+              {
+                "description": "El Instituto Nacional de las Cualificaciones organizó un comité de expertos, formado por diferentes profesionales en el mundo de los servicios de nube, para definir las competencias profesionales oficiales que un trabajador debe reunir para acreditarse como cualificado en nube. Yo me encargué de redactar la unidad referente a almacenamiento, bases de datos, y analítica, revisando además el resto de unidades y trabajando con el resto del comité para la redacción final"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnun - Universidad de Navarra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/86af4000-2e5e-4a13-96dc-83282c42f911_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/86af4000-2e5e-4a13-96dc-83282c42f911_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Guest lecturer at the Artificial Intelligence Master",
+            "startDate": "2020-09-01",
+            "finishDate": "2021-10-31",
+            "challenges": [
+              {
+                "description": "As a guest lecturer I deliver hands-on workshops on Data, Analytics, and Machine Learning in the cloud for the students at the AI Master at the Tecnun Engineering School of Universidad de Navarra"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Amazon Web Services",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/a5b9c500-779e-4c52-8c99-0b4682c9465b_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/a5b9c500-779e-4c52-8c99-0b4682c9465b_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Developer Advocate",
+            "startDate": "2019-01-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "Developer Advocate (formerly known as Technical Evangelist) at AWS with a focus on data and analytics"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Datatonic",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/a93bdc3f-4fc2-42eb-a9fc-673de3f015e0_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/a93bdc3f-4fc2-42eb-a9fc-673de3f015e0_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Head Of Engineering",
+            "startDate": "2018-08-01",
+            "finishDate": "2018-12-31",
+            "challenges": [
+              {
+                "description": "Datatonic is a Machine Learning and Analytics consultancy using Google Cloud as our platform of choice. In order for the ML and Analytics teams to do their magic and get business insights, a lot of software and data engineering needs to happen. That's where my team comes in.\n\nAs Head of Engineering, I take care of growing and mentoring the team, advising our customers on architecture and migration paths, and developing proofs of value to show how they can take advantage of Google Cloud Platform for their workloads.\n\nDatatonic is a Google Cloud Premier partner, and as such I work closely with Google's team to make sure our customers get the best solution possible."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aprendoaprogramar",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/8dfbe70f-0931-4297-8e4c-a0ed14831255_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/8dfbe70f-0931-4297-8e4c-a0ed14831255_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Co-founder",
+            "startDate": "2015-06-01",
+            "finishDate": "2020-12-31",
+            "challenges": [
+              {
+                "description": "AprendoAProgramar is a platform to help Spanish-speaking children learn the basics of software programming in an easy, fun, and protected way. \n\nWe are taking the proven approach set by MIT with Scratch and adding a community layer and a supervision system so parents and tutors always know what their children are sharing.\n\nWe are trying to keep subscription fees to a minimum and we are offering free subscription to families with limited resources. \n\nAt the moment this is an effort by a group of friends in our spare time. We are opening to the public in September and we need some help to take the project to the next level, so we have opened a crowdfunding campaign on kickstarter. https://www.kickstarter.com/projects/aprendoaprogramar/aprendoaprogramar-programacion-para-nins\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Startup Academy Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/99df38a2-27ae-4635-a35e-c7d5701a7a04_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/99df38a2-27ae-4635-a35e-c7d5701a7a04_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Instructor",
+            "startDate": "2015-02-01",
+            "finishDate": "2015-03-31",
+            "challenges": [
+              {
+                "description": "I teach about Agile Software Development on the Technology Track of this program"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "datawaki"
+        },
+        "roles": [
+          {
+            "name": "web developer, founder",
+            "startDate": "2014-09-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
+              {
+                "description": "Datawaki collects technical and business data from your application or from your devices\nand lets you run interactive queries, generate reports and get real-time alerts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Google",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/7f4ffc6e-5458-4abc-be15-352c500837e9_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/7f4ffc6e-5458-4abc-be15-352c500837e9_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Google Developer Expert on GCP and Google Cloud Authorised Trainer",
+            "startDate": "2014-01-01",
+            "finishDate": "2019-01-31",
+            "challenges": [
+              {
+                "description": "Please note this is not a position at Google, but a special status within the Google Cloud Platform Community. \n\nI've been an Official Google Developer Expert on the Cloud Platform since 2014, and GCP Authorized Trainer since 2015. I am Google Certified both as Cloud Architect and Data Engineer, and due to my outstanding work with the data layer on GCP, Google regularly refers me to help their customers with complex data migrations.\n\nI love data storage, big and small. I have extensive experience with different SQL, NoSQL, Graph, in-Memory, and BigData solutions. I like distributed, scalable, always-on systems.\nI've delivered Google Cloud Platform training to companies like Google, Cisco, Inmarsat, Lastminute, HSBC, Accenture, Zalando, BBC, JustEat, ScotiaBank, or HomeDepot.\n\nI have spoken at more than 60 events in about 15 countries about GCP, Streaming analytics, Machine Learning, BigQuery, Apache Beam, Dataflow, PubSub, Redis, Hadoop and Spark, Distributed Databases, and Google Analytics."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "teowaki",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/dbd319f2-535b-42a4-9d3d-6e0a82be9bdb_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/dbd319f2-535b-42a4-9d3d-6e0a82be9bdb_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "cloud and data engineer, founder",
+            "startDate": "2013-02-01",
+            "finishDate": "2018-08-31",
+            "challenges": [
+              {
+                "description": "teowaki is a data engineering and cloud agency. We provide consultancy, training, and development on cloud, APIs, Distributed Systems, DevOps, Big Data, Big Data Analytics, NoSQL, SRE, and back‑end development services.\n\nWe are Google Cloud Service partners.\n\nWe started as a product startup, then we decided to apply all we knew to help other companies deal with their data engineering problems.\n\nSince we started we have worked for companies like Zalando, Vimpelcom, Jellyfish, or Rocket Internet and trained teams from BBC, BBVA, CISCO, Accenture, Indra, Televisa, Schibsted, Everis, Tata Consultancy Services, General Electric Capital, The Priceline Group, HomeDepot, Expedia, or Google.\n\nWe have been involved in large projects using BigQuery and Analytics 360 (formerly Google Analytics Premium), Spark and Machine learning, and Google Cloud Platform. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "javier ramirez"
+        },
+        "roles": [
+          {
+            "name": "web developer, software architect",
+            "startDate": "2008-10-01",
+            "finishDate": "2013-02-28",
+            "challenges": [
+              {
+                "description": "Work as a freelance in several projects, ranging from job search networks to government applications"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tracor"
+        },
+        "roles": [
+          {
+            "name": "Web Development Instructor",
+            "startDate": "2008-04-01",
+            "finishDate": "2008-07-31",
+            "challenges": [
+              {
+                "description": "Instructor at the Master Of Fine Arts in Computer Art. The name of my subject is \"Introduction to Technology\", covering the basics of Web Development and using PHP and MySQL for the exercises"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Packt Publishing",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/b0935e08-0f1a-423f-8d50-4c8fff61b507_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/b0935e08-0f1a-423f-8d50-4c8fff61b507_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Author of \"Aptana RadRails: An IDE for Rails Development\"",
+            "startDate": "2007-09-01",
+            "finishDate": "2008-05-31",
+            "challenges": [
+              {
+                "description": "Author of the book \"Aptana RadRails: An IDE for Rails Development\" (ISBN:978-1-847193-98-8)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Francisco de Vitoria"
+        },
+        "roles": [
+          {
+            "name": "Lecturer/Instructor",
+            "startDate": "2007-03-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": "Teacher for the subjects \"The Java Programming Language\" and \"Advanced Java\" in 2nd and 3rd course of Software Engineering respectively.\n\nI also delivered the Seminar \"Programming with the Java Language\" (20 hours throughout 7 weeks) for 2nd and 3rd degree Software Engineering students"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ASPgems",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/7079cf6c-6274-49fc-b065-c20cb924a402_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/7079cf6c-6274-49fc-b065-c20cb924a402_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2006-07-01",
+            "finishDate": "2013-02-28",
+            "challenges": [
+              {
+                "description": "ASPgems provides web applications, mainly in Application Service Provider mode, developed using the Ruby on Rails framework.\n\nAs the CTO, I define the guidelines for the development of both internal and external projects as well as the development methodology. Besides, I manage the technical team, providing a creative/productive environment so they can achieve continuous improvement of their skills and work with the CEO and the Operations Manager to draw the general strategy of the company. My responsibilities include working with prospects and clients to help them get the best results possible and increase ROI.\n\n\nWhen I first joined aspgems as a project manager and software architect, my tasks covered managing requirements, defining the architecture, coordinating and developing the assigned projects.\n\nBesides, I deliver, Ruby on Rails training and I take a part in forums and conferences about this framework. I’m also a member of the Conferencia Rails Hispana organizing committee since the first edition in 2006."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "utende"
+        },
+        "roles": [
+          {
+            "name": "co-founder, software architect, team leader, partner",
+            "startDate": "2004-01-01",
+            "finishDate": "2006-01-01",
+            "challenges": [
+              {
+                "description": "Utende is a company providing business-oriented software solutions.\n\nAs a co-founding partner of the company, my tasks ranged from consulting and training, to project management and definition of different technological proposals.\n\nTechnologies: J2EE/PHP/ASP/Oracle/MySQL/MamboServer/OsCommerce"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vector Software Factory",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/412f4949-0e34-40f1-a1bc-08b8685b2398_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/412f4949-0e34-40f1-a1bc-08b8685b2398_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2003-01-01",
+            "finishDate": "2004-01-01",
+            "challenges": [
+              {
+                "description": "Vector Software Factory is a development company oriented to the model of software components.\n\nAs a Software Architect and Content Management Area Responsible, I managed and coordinated the development of different projects, working in the requirements definition, analysis, design and planning of the projects. I also helped the developers with technical issues.\n\nI was responsible for external development of the Intranet portals in Banesto, helping the department to define Best Practices and contributing to their common components library. I was also involved in analysis for SCH and PRISA groups and in technical support for BBVA.\n\nTechnologies: J2EE/OpenMarket/DB2/Sybase/WebSphere/Solaris/Windows"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -60,6 +450,34 @@
         },
         "type": "post",
         "publishingDate": "2022-03-24"
+      },
+      {
+        "details": {
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
       },
       {
         "details": {
@@ -85,68 +503,8 @@
       },
       {
         "details": {
-          "name": "Top 5% at Stack Overflow answers",
-          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Top 20% at Stack Overflow answers",
-          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Ruby on Rails",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "In Redis, command for retrieving values from sorted-set",
-          "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
-          "name": "How RESTful is using subdomains as resource identifiers?",
-          "URL": "https://stackoverflow.com/questions/20179352/how-restful-is-using-subdomains-as-resource-identifiers/20218028#20218028"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
-          "name": "redis:- query for particular 'email' in value",
-          "URL": "https://stackoverflow.com/questions/20240909/redis-query-for-particular-email-in-value/20242374#20242374"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
-          "name": "Conditionally displaying resources in a many-to-many relationship - Rails 4",
-          "URL": "https://stackoverflow.com/questions/20242955/conditionally-displaying-resources-in-a-many-to-many-relationship-rails-4/20245882#20245882"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
-          "name": "Redis WATCH MULTI EXEC by one client",
-          "URL": "https://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client/20216928#20216928"
+          "name": "Error with a BigQuery regular expression",
+          "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
         },
         "type": "post",
         "publishingDate": "2013-11-01"
@@ -161,8 +519,40 @@
       },
       {
         "details": {
-          "name": "Error with a BigQuery regular expression",
-          "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
+          "name": "Redis WATCH MULTI EXEC by one client",
+          "URL": "https://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client/20216928#20216928"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "Conditionally displaying resources in a many-to-many relationship - Rails 4",
+          "URL": "https://stackoverflow.com/questions/20242955/conditionally-displaying-resources-in-a-many-to-many-relationship-rails-4/20245882#20245882"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "redis:- query for particular 'email' in value",
+          "URL": "https://stackoverflow.com/questions/20240909/redis-query-for-particular-email-in-value/20242374#20242374"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "How RESTful is using subdomains as resource identifiers?",
+          "URL": "https://stackoverflow.com/questions/20179352/how-restful-is-using-subdomains-as-resource-identifiers/20218028#20218028"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "In Redis, command for retrieving values from sorted-set",
+          "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
         },
         "type": "post",
         "publishingDate": "2013-11-01"
