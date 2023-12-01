@@ -475,6 +475,23 @@
       },
       {
         "details": {
+          "name": "Why your relational database sucks at time-series",
+          "URL": "https://www.youtube.com/watch?v=w2w9zCgzf6U&t=15s&ab_channel=QuestDB"
+        },
+        "type": "video",
+        "publishingDate": "2022-12-01",
+        "tags": [
+          "video"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Top 11% Globally in StackOverflow in this quarter"
         },
         "type": "achievement",
