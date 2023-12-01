@@ -1,107 +1,61 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Javier",
-      "surnames": "Ramirez",
-      "title": "Head of Developer Relations at QuestDB",
-      "description": "",
+      "name": "javier",
+      "surnames": "ramirez",
+      "title": "Developer Advocate - Developer Relations Lead at QuestDB",
+      "description": "Software engineer (20+ years working in IT) with a strong focus on Cloud Architecture and Big Data (5+ years). Before that I developed web applications and distributed systems, mostly around the backend and data layer.\n\nI love data storage, big and small. I have extensive experience with different SQL, NoSQL, Graph, in-Memory, and BigData solutions. I like distributed, scalable, always-on systems.\n\nAll along my career I have been a technical trainer on different subjects. I was also a part-time teacher at different universities on the topics of Software Engineering and Programming Languages (JAVA). \n\nI love tech conferences, and I have spoken at more than 60 events in about 15 countries about Cloud Platforms, Streaming analytics, Machine Learning, Analytical/Columnar Data Stores, Apache Beam, Message Queues, Redis, Hadoop and Spark, Distributed Databases, Ruby on Rails, API usability, REST web services, hypermedia APIs, agile development, SEO, analytics, CSS frameworks, game development, software engineering, and team management. In the past, I also helped organizing a number of conferences and local groups.\n\nEx Google Developer Expert (2014-2018)\n\nWhen it comes to programming languages, I am competent at Python, Ruby, and JAVA. I've also used PHP and C++ in the past. Not scared of learning new tricks. After all, if I could learn to program using BASIC on an Amstrad when I was 12, and had to write COBOL on paper while at Uni, I am pretty sure I can handle whichever stack is hot right now.\n\nHaving co-started 3 companies, I bring a startup mentality even when working with large corporations.",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/81a99704-0fd8-4bf9-ad36-0fa1b5e39ab6_64daf88568a1db6a39dc.64daf88568a1db6a39dc9e6657e3e095"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/81a99704-0fd8-4bf9-ad36-0fa1b5e39ab6_64daf88568a1db6a39dc.64daf88568a1db6a39dc9e6657e3e095",
+        "alt": "profile-image"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJyerEDxyKQQ0RyzTMIAL5CA0)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Leganés"
       }
     },
     "relevantLinks": [
       {
-        "type": "other",
-        "URL": "http://javier-ramirez.com"
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ramirez"
       },
       {
         "type": "github",
         "URL": "https://github.com/javier"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3035921/javier-ramirez"
-      },
-      {
         "type": "twitter",
         "URL": "https://twitter.com/supercoco9"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/ramirez/"
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/3035921/javier-ramirez"
+      },
+      {
+        "type": "other",
+        "URL": "http://javier-ramirez.com"
       }
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "QuestDB"
-        },
-        "roles": [
-          {
-            "name": "Head of Developer Relations",
-            "startDate": "2022-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Amazon Web Services"
-        },
-        "roles": [
-          {
-            "name": "Developer Advocate",
-            "startDate": "2019-01-01",
-            "finishDate": "2022-05-01",
-            "challenges": [
-              {
-                "description": "I work as a Technical Evangelist at AWS to help developers make the best of cloud, so they can focus on solving interesting problems and rely on AWS for performance, scalability, elasticity, and security."
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "publicArtifacts": [
       {
         "details": {
-          "name": "Top 11% Globally in StackOverflow in this quarter",
-          "description": ""
+          "name": "Top 11% Globally in StackOverflow in this quarter"
         },
         "type": "achievement",
-        "publishingDate": "2022-11-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2022-11-01"
       },
       {
         "details": {
           "name": "Aptana RadRails: An IDE for Rails Development: A comprehensive guide to using RadRails to develop your Ruby on Rails projects in a professional and productive manner — Javier Ramirez",
-          "description": "",
           "URL": "http://www.amazon.com/Aptana-RadRails-Development-comprehensive-professional/dp/1847193986%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1847193986"
         },
         "type": "post",
@@ -160,7 +114,6 @@
       {
         "details": {
           "name": "Error with a BigQuery regular expression",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
         },
         "type": "post",
@@ -169,7 +122,6 @@
       {
         "details": {
           "name": "Google Cloud Console: Invalid redirect URI",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/19543517/google-cloud-console-invalid-redirect-uri/20218465#20218465"
         },
         "type": "post",
@@ -178,7 +130,6 @@
       {
         "details": {
           "name": "Redis WATCH MULTI EXEC by one client",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client/20216928#20216928"
         },
         "type": "post",
@@ -187,7 +138,6 @@
       {
         "details": {
           "name": "Conditionally displaying resources in a many-to-many relationship - Rails 4",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/20242955/conditionally-displaying-resources-in-a-many-to-many-relationship-rails-4/20245882#20245882"
         },
         "type": "post",
@@ -196,7 +146,6 @@
       {
         "details": {
           "name": "redis:- query for particular 'email' in value",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/20240909/redis-query-for-particular-email-in-value/20242374#20242374"
         },
         "type": "post",
@@ -205,7 +154,6 @@
       {
         "details": {
           "name": "How RESTful is using subdomains as resource identifiers?",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/20179352/how-restful-is-using-subdomains-as-resource-identifiers/20218028#20218028"
         },
         "type": "post",
@@ -214,7 +162,6 @@
       {
         "details": {
           "name": "In Redis, command for retrieving values from sorted-set",
-          "description": "",
           "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
         },
         "type": "post",
@@ -225,72 +172,35 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "German",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Italian",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Polish",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "PL",
+        "fullName": "Polaco",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ruby",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS EC2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DynamoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -302,67 +212,13 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "AWS EC2",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Airflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hadoop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ruby on Rails",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "InfluxDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PySpark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Data Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
           "type": "technology"
         }
       },
@@ -374,19 +230,49 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PyTorch",
+          "name": "DynamoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Scikit-learn",
+          "name": "Flink",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hadoop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "InfluxDB",
           "type": "technology"
         }
       },
@@ -398,7 +284,13 @@
       },
       {
         "skill": {
-          "name": "Redis",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -410,19 +302,79 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TensorFlow",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Flink",
+          "name": "PySpark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyTorch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scikit-learn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
           "type": "technology"
         }
       }
@@ -432,13 +384,24 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/ramirez/"
+          "URL": "https://linkedin.com/in/ramirez",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/3035921/javier-ramirez"
+          "URL": "https://stackoverflow.com/users/3035921/javier-ramirez",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/javier",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/supercoco9",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "javier@formatinternet.com"
       ]
     },
     "preferences": {
@@ -448,15 +411,15 @@
           "type": "technology"
         },
         {
+          "name": "AWS Aurora",
+          "type": "technology"
+        },
+        {
           "name": "Airflow",
           "type": "technology"
         },
         {
           "name": "Apache Beam",
-          "type": "technology"
-        },
-        {
-          "name": "Aurora",
           "type": "technology"
         },
         {
