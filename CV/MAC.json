@@ -500,6 +500,47 @@
       },
       {
         "details": {
+          "name": "Como creamos QuestDB Cloud, un SaaS basado en Kubernetes alrededor de QuestDB, la base de datos de time series open source",
+          "URL": "https://www.slideshare.net/supercoco9/como-creamos-questdb-cloud-un-saas-basado-en-kubernetes-alrededor-de-questdb-la-base-de-datos-de-time-series-open-source-259139942"
+        },
+        "type": "talk",
+        "publishingDate": "2023-07-01",
+        "tags": [
+          "conference"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Grafana",
+            "type": "technology"
+          },
+          {
+            "name": "Kafka",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Why your relational database sucks at time-series",
           "URL": "https://www.youtube.com/watch?v=w2w9zCgzf6U&t=15s&ab_channel=QuestDB"
         },
