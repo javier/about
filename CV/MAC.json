@@ -501,6 +501,7 @@
       {
         "details": {
           "name": "Como creamos QuestDB Cloud, un SaaS basado en Kubernetes alrededor de QuestDB, la base de datos de time series open source",
+          "description": "BcnDevCon 2023 in Barcelona, Spain",
           "URL": "https://www.slideshare.net/supercoco9/como-creamos-questdb-cloud-un-saas-basado-en-kubernetes-alrededor-de-questdb-la-base-de-datos-de-time-series-open-source-259139942"
         },
         "type": "talk",
