@@ -776,6 +776,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Comunicación verbal",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Liderazgo",
           "type": "practice"
         }
