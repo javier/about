@@ -566,6 +566,7 @@
       {
         "details": {
           "name": "Ingesting Over Four Million Rows Per Second With QuestDB Timeseries Database - Berlin Buzzwords",
+          "description": "Berlin BuzzWords Conference 2023, in Berlin, Germany",
           "URL": "https://www.slideshare.net/supercoco9/ingesting-over-four-million-rows-per-second-with-questdb-timeseries-database-berlin-buzzwords"
         },
         "type": "talk",
