@@ -49,22 +49,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Intesys Integrated Software Services"
-        },
-        "roles": [
-          {
-            "name": "Project Manager",
-            "startDate": "2023-12-01",
-            "challenges": [
-              {
-                "description": "Intesys is a consulting and development company present in several sectors.\n\nAa an international project manager for our client ‘Lilly’ laboratories, I was responsible for the whole life cycle of our projects, from business requirements to deployment.\n\nTechnologies: J2EE/ColdFusion/WebSphere/Solaris/Oracle"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "QuestDB",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/a1adde29-1771-4a51-acbf-50d60b352afd_linkedin-photo-2931.linkedin-photo-2931",
@@ -373,6 +357,23 @@
             "challenges": [
               {
                 "description": "Fatwire is a one of the world leaders in Content Management Software through its flagship product ContentServer (formerly OpenMarket)\n\nAs a post-sales engineer and training responsible, my tasks were to analyze our clients’ needs and to help them architecture their installations, as well as to support their applications and to deliver technical training.\n\nTechnologies: Fatwire Content Server/J2EE/JBoss/Oracle"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Intesys Integrated Software Services"
+        },
+        "roles": [
+          {
+            "name": "Project Manager",
+            "startDate": "2004-02-01",
+            "finishDate": "2004-06-01",
+            "challenges": [
+              {
+                "description": "Intesys is a consulting and development company present in several sectors.\n\nAa an international project manager for our client ‘Lilly’ laboratories, I was responsible for the whole life cycle of our projects, from business requirements to deployment.\n\nTechnologies: J2EE/ColdFusion/WebSphere/Solaris/Oracle"
               }
             ]
           }
