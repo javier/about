@@ -583,6 +583,24 @@
       },
       {
         "details": {
+          "name": "Your Timestamps Deserve Better than a Generic Database",
+          "description": "DevDays Europe 2023, Vilnius, Lithuania",
+          "URL": "https://www.slideshare.net/supercoco9/your-timestamps-deserve-better-than-a-generic-database"
+        },
+        "type": "talk",
+        "publishingDate": "2023-05-01",
+        "tags": [
+          "conference"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Why your relational database sucks at time-series",
           "URL": "https://www.youtube.com/watch?v=w2w9zCgzf6U&t=15s&ab_channel=QuestDB"
         },
