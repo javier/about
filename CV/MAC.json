@@ -442,6 +442,17 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Solving duplicate data with performant deduplication",
+          "URL": "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
+        },
+        "type": "post",
+        "publishingDate": "2023-11-01",
+        "tags": [
+          "blog"
+        ]
+      },
+      {
+        "details": {
           "name": "329 GitHub contributions in the last year ",
           "URL": "https://github.com/javier"
         },
