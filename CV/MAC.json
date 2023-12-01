@@ -85,22 +85,6 @@
       },
       {
         "organization": {
-          "name": "Fatwire Corporation"
-        },
-        "roles": [
-          {
-            "name": "post-sales engineer",
-            "startDate": "2023-12-01",
-            "challenges": [
-              {
-                "description": "Fatwire is a one of the world leaders in Content Management Software through its flagship product ContentServer (formerly OpenMarket)\n\nAs a post-sales engineer and training responsible, my tasks were to analyze our clients’ needs and to help them architecture their installations, as well as to support their applications and to deliver technical training.\n\nTechnologies: Fatwire Content Server/J2EE/JBoss/Oracle"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "QuestDB",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/a1adde29-1771-4a51-acbf-50d60b352afd_linkedin-photo-2931.linkedin-photo-2931",
@@ -392,6 +376,23 @@
             "challenges": [
               {
                 "description": "ASPgems provides web applications, mainly in Application Service Provider mode, developed using the Ruby on Rails framework.\n\nAs the CTO, I define the guidelines for the development of both internal and external projects as well as the development methodology. Besides, I manage the technical team, providing a creative/productive environment so they can achieve continuous improvement of their skills and work with the CEO and the Operations Manager to draw the general strategy of the company. My responsibilities include working with prospects and clients to help them get the best results possible and increase ROI.\n\n\nWhen I first joined aspgems as a project manager and software architect, my tasks covered managing requirements, defining the architecture, coordinating and developing the assigned projects.\n\nBesides, I deliver, Ruby on Rails training and I take a part in forums and conferences about this framework. I’m also a member of the Conferencia Rails Hispana organizing committee since the first edition in 2006."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fatwire Corporation"
+        },
+        "roles": [
+          {
+            "name": "post-sales engineer",
+            "startDate": "2006-01-01",
+            "finishDate": "2006-05-01",
+            "challenges": [
+              {
+                "description": "Fatwire is a one of the world leaders in Content Management Software through its flagship product ContentServer (formerly OpenMarket)\n\nAs a post-sales engineer and training responsible, my tasks were to analyze our clients’ needs and to help them architecture their installations, as well as to support their applications and to deliver technical training.\n\nTechnologies: Fatwire Content Server/J2EE/JBoss/Oracle"
               }
             ]
           }
