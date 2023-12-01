@@ -541,6 +541,29 @@
       },
       {
         "details": {
+          "name": "Deduplicating and analysing time-series data with Apache Beam and QuestDB",
+          "description": "Apache Beam Summit New York",
+          "URL": "https://www.slideshare.net/supercoco9/deduplicating-and-analysing-timeseries-data-with-apache-beam-and-questdb"
+        },
+        "type": "talk",
+        "publishingDate": "2023-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Apache Beam",
+            "type": "technology"
+          },
+          {
+            "name": "Kafka",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ingesting Over Four Million Rows Per Second With QuestDB Timeseries Database - Berlin Buzzwords",
           "URL": "https://www.slideshare.net/supercoco9/ingesting-over-four-million-rows-per-second-with-questdb-timeseries-database-berlin-buzzwords"
         },
