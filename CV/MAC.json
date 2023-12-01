@@ -549,6 +549,27 @@
       },
       {
         "details": {
+          "name": "Ahorra dinero y tiempo en tus consultas con Amazon Athena",
+          "URL": "https://aws.amazon.com/es/blogs/aws-spanish/ahorra-dinero-y-tiempo-con-amazon-athena/"
+        },
+        "type": "achievement",
+        "publishingDate": "2020-10-01",
+        "tags": [
+          "blog"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Error with a BigQuery regular expression",
           "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
         },
