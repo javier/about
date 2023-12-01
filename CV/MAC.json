@@ -543,7 +543,7 @@
       {
         "details": {
           "name": "Deduplicating and analysing time-series data with Apache Beam and QuestDB",
-          "description": "Apache Beam Summit New York",
+          "description": "Apache Beam Summit 2023, New York, USA",
           "URL": "https://www.slideshare.net/supercoco9/deduplicating-and-analysing-timeseries-data-with-apache-beam-and-questdb"
         },
         "type": "talk",
