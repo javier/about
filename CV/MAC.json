@@ -442,6 +442,14 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Top 3% Globally in StackOverflow in this quarter",
+          "URL": "https://stackoverflow.com/users/3035921/javier-ramirez?tab=topactivity"
+        },
+        "type": "achievement",
+        "publishingDate": "2023-11-01"
+      },
+      {
+        "details": {
           "name": "Top 11% Globally in StackOverflow in this quarter"
         },
         "type": "achievement",
