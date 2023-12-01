@@ -492,6 +492,23 @@
       },
       {
         "details": {
+          "name": "Time-series Database for Developers: QuestDB",
+          "URL": "https://www.youtube.com/watch?v=x5FZJl0sscc&t=8s&ab_channel=QuestDB"
+        },
+        "type": "video",
+        "publishingDate": "2022-11-01",
+        "tags": [
+          "video"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Top 11% Globally in StackOverflow in this quarter"
         },
         "type": "achievement",
