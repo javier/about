@@ -482,6 +482,23 @@
       },
       {
         "details": {
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "tags": [
+          "stackoverflow"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Top 10% at Stack Overflow answers",
           "description": "This user is part of the top 10% Stack Overflow answerers in these technologies"
         },
@@ -501,20 +518,6 @@
           },
           {
             "name": "google-bigquery",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Top 20% at Stack Overflow answers",
-          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Ruby on Rails",
             "type": "technology"
           }
         ]
