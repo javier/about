@@ -49,26 +49,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Genetsis Partners",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/2e46ba77-051a-4836-ba1c-effb1b168716_linkedin-photo-2931.linkedin-photo-2931",
-            "alt": "23/12/01/2e46ba77-051a-4836-ba1c-effb1b168716_linkedin-photo-2931.linkedin-photo-2931"
-          }
-        },
-        "roles": [
-          {
-            "name": "Team Leader",
-            "startDate": "2023-12-01",
-            "challenges": [
-              {
-                "description": "e-business and e-marketing company.\n\nAs a Team Leader, I coordinated the development of three portals for cajamadrid (fundación cajamadrid, obra social cajamadrid and la casa encendida). I took part in analysis and development and I was responsible for the technical team.\n\nTechnologies: J2EE/Weblogic/Vignette/Oracle/Solaris"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Intesys Integrated Software Services"
         },
         "roles": [
@@ -410,6 +390,27 @@
             "challenges": [
               {
                 "description": "Utende is a company providing business-oriented software solutions.\n\nAs a co-founding partner of the company, my tasks ranged from consulting and training, to project management and definition of different technological proposals.\n\nTechnologies: J2EE/PHP/ASP/Oracle/MySQL/MamboServer/OsCommerce"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Genetsis Partners",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/01/2e46ba77-051a-4836-ba1c-effb1b168716_linkedin-photo-2931.linkedin-photo-2931",
+            "alt": "23/12/01/2e46ba77-051a-4836-ba1c-effb1b168716_linkedin-photo-2931.linkedin-photo-2931"
+          }
+        },
+        "roles": [
+          {
+            "name": "Team Leader",
+            "startDate": "2003-01-01",
+            "finishDate": "2003-04-01",
+            "challenges": [
+              {
+                "description": "e-business and e-marketing company.\n\nAs a Team Leader, I coordinated the development of three portals for cajamadrid (fundación cajamadrid, obra social cajamadrid and la casa encendida). I took part in analysis and development and I was responsible for the technical team.\n\nTechnologies: J2EE/Weblogic/Vignette/Oracle/Solaris"
               }
             ]
           }
