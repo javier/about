@@ -776,6 +776,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Visión estratégica",
           "type": "practice"
         }
