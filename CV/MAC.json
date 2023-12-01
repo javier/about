@@ -442,6 +442,14 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "329 GitHub contributions in the last year ",
+          "URL": "https://github.com/javier"
+        },
+        "type": "achievement",
+        "publishingDate": "2023-11-01"
+      },
+      {
+        "details": {
           "name": "Top 3% Globally in StackOverflow in this quarter",
           "URL": "https://stackoverflow.com/users/3035921/javier-ramirez?tab=topactivity"
         },
