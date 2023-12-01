@@ -772,6 +772,14 @@
           "type": "technology"
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Visión estratégica",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
