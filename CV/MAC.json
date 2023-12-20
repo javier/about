@@ -442,6 +442,24 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Top 3% Globally in StackOverflow in this quarter",
+          "description": "https://stackexchange.com/leagues/1/quarter/stackoverflow/2023-10-01/3035921#3035921",
+          "URL": "https://stackexchange.com/leagues/1/quarter/stackoverflow/2023-10-01/3035921#3035921"
+        },
+        "type": "achievement",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "stackoverflow"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Solving duplicate data with performant deduplication",
           "URL": "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
         },
