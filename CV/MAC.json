@@ -442,6 +442,35 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Top 3% in Stackoverflow this year",
+          "URL": "https://stackoverflow.com/users/3035921/javier-ramirez",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/08a83142-a09f-4bab-a77f-da5c8e4b96cd_screenshot-2024-03-0.png",
+            "alt": "Screenshot 2024-03-05 at 10.28.58.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2024-03-01",
+        "tags": [
+          "stackoverflow"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "BigQuery",
+            "type": "technology"
+          },
+          {
+            "name": "NoSQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Top 3% Globally in StackOverflow in this quarter",
           "description": "https://stackexchange.com/leagues/1/quarter/stackoverflow/2023-10-01/3035921#3035921",
           "URL": "https://stackexchange.com/leagues/1/quarter/stackoverflow/2023-10-01/3035921#3035921",
@@ -464,17 +493,6 @@
       },
       {
         "details": {
-          "name": "Solving duplicate data with performant deduplication",
-          "URL": "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
-        },
-        "type": "post",
-        "publishingDate": "2023-11-01",
-        "tags": [
-          "blog"
-        ]
-      },
-      {
-        "details": {
           "name": "329 GitHub contributions in the last year ",
           "URL": "https://github.com/javier"
         },
@@ -493,6 +511,17 @@
         "publishingDate": "2023-11-01",
         "tags": [
           "stackoverflow"
+        ]
+      },
+      {
+        "details": {
+          "name": "Solving duplicate data with performant deduplication",
+          "URL": "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
+        },
+        "type": "post",
+        "publishingDate": "2023-11-01",
+        "tags": [
+          "blog"
         ]
       },
       {
@@ -692,6 +721,20 @@
       },
       {
         "details": {
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Top 10% at Stack Overflow answers",
           "description": "This user is part of the top 10% Stack Overflow answerers in these technologies"
         },
@@ -707,24 +750,6 @@
           },
           {
             "name": "Redis",
-            "type": "technology"
-          },
-          {
-            "name": "google-bigquery",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Top 5% at Stack Overflow answers",
-          "description": "This user is part of the top 5% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "AWS",
             "type": "technology"
           }
         ]
@@ -752,22 +777,6 @@
       },
       {
         "details": {
-          "name": "Error with a BigQuery regular expression",
-          "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
-          "name": "Google Cloud Console: Invalid redirect URI",
-          "URL": "https://stackoverflow.com/questions/19543517/google-cloud-console-invalid-redirect-uri/20218465#20218465"
-        },
-        "type": "post",
-        "publishingDate": "2013-11-01"
-      },
-      {
-        "details": {
           "name": "Redis WATCH MULTI EXEC by one client",
           "URL": "https://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client/20216928#20216928"
         },
@@ -792,6 +801,14 @@
       },
       {
         "details": {
+          "name": "Error with a BigQuery regular expression",
+          "URL": "https://stackoverflow.com/questions/20281208/error-with-a-bigquery-regular-expression/20284002#20284002"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
           "name": "How RESTful is using subdomains as resource identifiers?",
           "URL": "https://stackoverflow.com/questions/20179352/how-restful-is-using-subdomains-as-resource-identifiers/20218028#20218028"
         },
@@ -802,6 +819,14 @@
         "details": {
           "name": "In Redis, command for retrieving values from sorted-set",
           "URL": "https://stackoverflow.com/questions/20262596/in-redis-command-for-retrieving-values-from-sorted-set/20263216#20263216"
+        },
+        "type": "post",
+        "publishingDate": "2013-11-01"
+      },
+      {
+        "details": {
+          "name": "Google Cloud Console: Invalid redirect URI",
+          "URL": "https://stackoverflow.com/questions/19543517/google-cloud-console-invalid-redirect-uri/20218465#20218465"
         },
         "type": "post",
         "publishingDate": "2013-11-01"
